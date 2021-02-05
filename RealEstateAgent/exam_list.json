@@ -1,0 +1,12 @@
+{
+  "examList": [
+    {
+		"examId": "RealEstateAgent",
+      , "examNm": "공인중개사"
+      , "inn": "31"
+      , "innType": "A"
+	  , "url": ""
+	  , "version" : ""
+    }
+  ]
+}
